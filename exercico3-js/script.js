@@ -16,7 +16,7 @@ function verificar() {
             genero = 'homem'  
             if(idade >=0 && idade <10){
                 //criança
-                img.setAttribute('src ','bb-feminino.jpg')
+                img.setAttribute('src','estudos-js/exercico3-js/adolescent-feminino.jpg')
             }       
         }
         else if (fsex[1].checked){
