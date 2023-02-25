@@ -1,19 +1,21 @@
 body{
     margin: 0;
     padding: 0;
-    background-color: rgb(167, 186, 241);
+    background-color: rgba(5, 4, 85, 0.808);
     text-align: center;
 }
 header{
-    color: aliceblue;
+    color: rgb(75, 72, 245);
 }
 section{
-background-color: rgb(232, 235, 223);
+background-color: #26c3c9ab;
 border-radius: 10px;
 padding:15px;
 width:500px;
 margin:auto; 
 }
 footer{
-    color:#a1f1a1;
+    color:#0d0e0d;
+    text-transform: uppercase;
+
 }
